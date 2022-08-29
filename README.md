@@ -5,3 +5,5 @@
 // 5. Run staging tests
 
 // PUBLIC ADDRESS: 0xBe6A581A7633153c972FF801BadFAf56D4920298 (simple-storage-fcc)
+
+// Contract address Rinkeby: 0xF69fb2b87BB04Ae74edc8908180d7e17e80aa4e7
